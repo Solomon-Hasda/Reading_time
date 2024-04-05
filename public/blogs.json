@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover": "https://images.pexels.com/photos/256381/pexels-photo-256381.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Shadows of Destiny: Secrets Revealed in the Halls of Fate",
+        "author": "Mikel Philips",
+        "author_image": "https://149645218.v2.pressablecdn.com/wp-content/uploads/2020/09/Copy-of-SAFAF-2X1-images-2020-09-18T173938.309.jpg",
+        "posted_date": "2025-Feb-04",
+        "reading_time": 30,
+        "hashtags": [
+            "adventure",
+            "journey",
+            "exciting"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://images.pexels.com/photos/3913031/pexels-photo-3913031.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Beneath the Starlit Sky: Love, Loss, and Redemption in the Midnight Hours",
+        "author": "Jane Smith",
+        "author_image": "https://cdn.britannica.com/40/239840-050-7251832B/Mulk-Raj-Anand-Indian-author.jpg",
+        "posted_date": "2024-December-03",
+        "reading_time": 45,
+        "hashtags": [
+            "cooking",
+            "recipes",
+            "food"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://images.pexels.com/photos/8438991/pexels-photo-8438991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Whispers of the Wind: Mysteries Unveiled in the Ancient Forests",
+        "author": "Alex Johnson",
+        "author_image": "https://cdn.britannica.com/40/239840-050-7251832B/Mulk-Raj-Anand-Indian-author.jpg",
+        "posted_date": "2023-June-02",
+        "reading_time": 60,
+        "hashtags": [
+            "coding",
+            "programming",
+            "development"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://images.pexels.com/photos/9028911/pexels-photo-9028911.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "The Serendipitous Wanderer: Tales of Adventure and Discovery Across Continents",
+        "author": "Emily Brown",
+        "author_image": "",
+        "posted_date": "2022-April-01",
+        "reading_time": 20,
+        "hashtags": [
+            "travel",
+            "exploration",
+            "discoveries"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://images.pexels.com/photos/2280568/pexels-photo-2280568.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Echoes of Eternity: A Journey Through Time and Space",
+        "author": "Michael Johnson",
+        "author_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQc-2X2i9BS5pQsotUD1nfmuCHwJMp987nlPhbCPV_cA&s",
+        "posted_date": "2021-march-31",
+        "reading_time": 40,
+        "hashtags": [
+            "health",
+            "fitness",
+            "exercise"
+        ]
+    }
+]
